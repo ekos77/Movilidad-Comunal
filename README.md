@@ -17,8 +17,8 @@ Este software es uno de los muchos proyectos que la comunidad de desarrolladores
 - [JavaScript](https://www.javascript.com/)
 - [PHP](https://www.php.net/)
 - [JSON](https://json.org/json-es.html)
-- [Python]([https://www.python.org/])
-- [Pandas]([https://www.mysql.com/](https://pandas.pydata.org/))
+- [Python](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
  
 ## Cómo Empezar
 1. Este repositorio es publico
