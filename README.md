@@ -1,6 +1,6 @@
 # Movilidad comunal 🚀
-![Texto alternativo](hrs_online.png)
-
+![Texto alternativo](Movilidad_comunal1.png)
+![Texto alternativo](Movilidad_comunal2.png)
 **Movilidad comunal** es un sistema informático web diseñado en respuesta de la crisis zanitaria afecto a todo el planeta en el 2019
 
 ## Descripción
